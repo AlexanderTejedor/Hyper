@@ -1,1 +1,3 @@
 Hola, soy Alexander Tejedor, Estudiante de desarrollo web empirico.
+
+Estudiando en platzi y viendo videos y cursos adicionales, aspiero a ser un desarrollador de software.
